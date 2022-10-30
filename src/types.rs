@@ -18,7 +18,7 @@
 
 pub use opencl_sys::{
     cl_addressing_mode, cl_bitfield, cl_bool, cl_buffer_create_type, cl_buffer_region,
-    cl_build_status, cl_channel_order, cl_channel_type, cl_command_queue, cl_command_queue_info,
+    cl_build_status, cl_channel_order, cl_channel_type, cl_char, cl_command_queue, cl_command_queue_info,
     cl_command_queue_properties, cl_command_type, cl_context, cl_context_info,
     cl_context_properties, cl_device_affinity_domain, cl_device_atomic_capabilities,
     cl_device_device_enqueue_capabilities, cl_device_exec_capabilities, cl_device_fp_config,
